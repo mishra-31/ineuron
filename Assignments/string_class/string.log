@@ -1,0 +1,16 @@
+2022-07-07 03:53:38,299 root INFO Reversing string
+2022-07-07 03:53:38,299 root INFO .maerd ym si GNAAM dna arhsiM kehsihbA si eman yM
+2022-07-07 03:53:38,299 root INFO Converting string
+2022-07-07 03:53:38,299 root INFO ['MY', 'NAME', 'IS', 'ABHISHEK', 'MISHRA', 'AND', 'MAANG', 'IS', 'MY', 'DREAM.']
+2022-07-07 03:53:38,299 root INFO Converting string to lower case
+2022-07-07 03:53:38,299 root INFO my name is abhishek mishra and maang is my dream.
+2022-07-07 03:53:38,299 root INFO Capitalising string
+2022-07-07 03:53:38,299 root INFO My name is abhishek mishra and maang is my dream.
+2022-07-07 03:53:38,299 root INFO replacing string character by another one
+2022-07-07 03:53:38,299 root INFO My name is Abhishek Mishra and MAANG is my important dream.
+2022-07-07 03:53:38,300 root INFO Concatenating all the strings
+2022-07-07 03:53:38,300 root INFO This is dynamic args function
+2022-07-07 03:53:38,300 root INFO filtering vowels
+2022-07-07 03:53:38,300 root INFO ['a', 'e', 'i', 'A', 'i', 'e', 'i', 'a', 'a', 'A', 'A', 'i', 'e', 'a']
+2022-07-07 03:53:38,300 root INFO calculating string length
+2022-07-07 03:53:38,300 root INFO 49
