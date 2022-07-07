@@ -1,0 +1,8 @@
+2022-07-07 13:06:41,461 root INFO Extracting dict entities
+2022-07-07 13:06:41,461 root INFO [('k1', 'sudh'), ('k2', 'ineuron'), ('k3', 'kumar'), ('k4', {1: 'value', 3: 6, 7: 8})]
+2022-07-07 13:06:41,462 root INFO Extracting num data
+2022-07-07 13:06:41,462 root INFO [1, 3, 6, 7, 8]
+2022-07-07 13:06:41,462 root INFO Counting dict keys
+2022-07-07 13:06:41,462 root INFO Number of keys : 4
+2022-07-07 13:06:41,462 root INFO Creating list of values
+2022-07-07 13:06:41,462 root INFO [[1, 2, 3], [1, 2, 3], ['b', 'c', 'd']]
